@@ -1,0 +1,16 @@
+{
+  "name": "KleurSnoep",
+  "short_name": "KleurSnoep",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "description": "Snoep in kleur, geleverd aan huis.",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
